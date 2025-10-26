@@ -16,4 +16,124 @@
             <Zip>85281</Zip>
         </Address>
     </Hotel>
+    <Hotel>
+        <Name>The McCormick Scottsdale</Name>
+        <Phone>800-535-1865</Phone>
+        <Address
+            NearestAirport="Scottsdale">
+            <Number>7421</Number>
+            <Street>N. Scottsdale Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85253</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.6">
+        <Name>Hotel Valley Ho</Name>
+        <Phone>480-376-2600</Phone>
+        <Address
+            NearestAirport="Sky Harbor">
+            <Number>6850</Number>
+            <Street>E. Main St</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85251</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.6">
+        <Name>Home2 Suites by Hilton Mesa Longbow</Name>
+        <Phone>480-545-6615</Phone>
+        <Address
+            NearestAirport="Mesa Gateway">
+            <Number>5643</Number>
+            <Street>E. Longbow Pkwy</Street>
+            <City>Mesa</City>
+            <State>AZ</State>
+            <Zip>85215</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Embassy Suites by Hilton Anaheim North</Name>
+        <Phone>800-362-2779</Phone>
+        <Address
+            NearestAirport="Fullerton Municipal Airport">
+            <Number>3100</Number>
+            <Street>E. Frontera St</Street>
+            <City>Anaheim</City>
+            <State>CA</State>
+            <Zip>92806</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.0">
+        <Name>Best Western Plus Meridian Inn &amp; Suites, Anaheim-Orange</Name>
+        <Phone>714-740-2700</Phone>
+        <Address
+            NearestAirport="Fullerton Municipal Airport">
+            <Number>720</Number>
+            <Street>The City Dr S.</Street>
+            <City>Orange</City>
+            <State>CA</State>
+            <Zip>92868</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Holiday Inn Santa Ana-Orange Co.</Name>
+        <Phone>714-481-6300</Phone>
+        <Address
+            NearestAirport="John Wayne Airport">
+            <Number>2726</Number>
+            <Street>S. Grand Ave</Street>
+            <City>Santa Ana</City>
+            <State>CA</State>
+            <Zip>92705</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.9">
+        <Name>Hampton Inn &amp; Suites Denver-Cherry Creek</Name>
+        <Phone>303-692-1800</Phone>
+        <Address
+            NearestAirport="Centennial Airport">
+            <Number>4150</Number>
+            <Street>E. Kentucky Ave</Street>
+            <City>Glendale</City>
+            <State>CO</State>
+            <Zip>80246</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>The Bishop Arts Hotel by Q Resorts</Name>
+        <Phone>469-554-0797</Phone>
+        <Address
+            NearestAirport="Dallas Fort Worth International Airport">
+            <Number>975</Number>
+            <Street>N. Zang Blvd</Street>
+            <City>Dallas</City>
+            <State>TX</State>
+            <Zip>75208</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.0">
+        <Name>Hampton Inn &amp; Suites Fort Worth/Forest Hill</Name>
+        <Phone>817-551-7775</Phone>
+        <Address
+            NearestAirport="Fort Worth Meacham International Airport">
+            <Number>6555</Number>
+            <Street>Park Brook</Street>
+            <City>Forest Hill</City>
+            <State>TX</State>
+            <Zip>76140</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.4">
+        <Name>The Inn at Penn, a Hilton Hotel</Name>
+        <Phone>215-222-0200</Phone>
+        <Address
+            NearestAirport="Philadelphia International Airport">
+            <Number>3600</Number>
+            <Street>Sansom St</Street>
+            <City>Philadelphia</City>
+            <State>PA</State>
+            <Zip>19104</Zip>
+        </Address>
+    </Hotel>
 </Hotels>
