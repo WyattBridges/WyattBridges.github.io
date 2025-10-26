@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-    targetNamespace="http://example.com/hotels"
-    xmlns="http://example.com/hotels"
+    targetNamespace="https://wyattbridges.github.io/xml_files_Afdajsd0sfd_fjdafjsodiIOnfd/Hotes.xsd"
+    xmlns="https://wyattbridges.github.io/xml_files_Afdajsd0sfd_fjdafjsodiIOnfd/Hotes.xsd"
     elementFormDefault="qualified"
     attributeFormDefault="unqualified">
 
